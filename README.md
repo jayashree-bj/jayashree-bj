@@ -111,12 +111,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayashree-bj&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayashree-bj&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jayashree-bj&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayashree-bj&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
-
 <p align="center">
-  <i>"Turning data into decisions, and ideas into intelligent systems."</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayashree-bj&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
