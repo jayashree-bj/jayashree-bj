@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jayashree BJ 👋</h1>
 
 <p align="center">
-  <b>MSc Data Science | VIT Chennai (CGPA: 9.02) | AI Developer @ L&T Construction</b>
+  <b>MSc Data Science | VIT Chennai (CGPA: 9.01) | AI Developer @ L&T Construction</b>
 </p>
 
 <p align="center">
