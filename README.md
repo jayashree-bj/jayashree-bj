@@ -90,7 +90,7 @@
 
 ## 💼 Internship
 
-**AI Developer Intern — L&T Construction, Chennai** *(Jan 2026 – Present)*
+**AI Developer Intern — L&T Construction, Chennai** *(Jan 2026 – May 2026)*
 - Built multi-agent pipelines using LangGraph for banking invoice validation
 - Developed RAG pipelines with RLHF feedback loops for financial document intelligence
 - Created multi-OCR benchmarking pipeline for automated field extraction
